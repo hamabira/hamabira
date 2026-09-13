@@ -5,7 +5,7 @@
   <h1>KEITA HAMABIRA</h1>
   <h3>Software Engineer</h3>
 
-  <p>Tokyo Denki University · Undergraduate / Year 3</p>
+  <p>Tokyo Denki University · Undergraduate</p>
   <p><strong>誰のどんな課題を、なぜ解くのか。</strong><br />
   小さく作って試しながら、実際に使えるプロダクトへ育てています。</p>
 
@@ -62,10 +62,11 @@
 
 <div align="center">
   <a href="https://github.com/hamabira">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamabira&amp;theme=transparent" alt="Most used languages" />
+    <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamabira&amp;theme=transparent" alt="Top languages by commit" />
   </a>
+  <br />
   <a href="https://github.com/hamabira">
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamabira&amp;theme=transparent" alt="GitHub stats" />
+    <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamabira&amp;theme=transparent" alt="GitHub stats" />
   </a>
 </div>
 
