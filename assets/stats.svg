@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="stats-card-svg" viewBox="0 0 400 258" width="400" height="258" role="img" aria-label="GitHub stats"><title>GitHub stats</title><style>.stats-card-svg {color-scheme: light dark; --paper:light-dark(#ffffff,#0d1117); --ink:light-dark(#1f2328,#f0f6fc); --muted:light-dark(#59636e,#9198a1); --line:light-dark(#d1d9e0,#3d444d); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
+.stats-card-svg .panel {fill:var(--paper);stroke:var(--line);}
+.stats-card-svg text {fill:var(--ink);font-size:17px;}
+.stats-card-svg .heading {font-size:20px;font-weight:600;}
+.stats-card-svg .muted {fill:var(--muted);}
+.stats-card-svg .value {font-size:20px;font-weight:600;}
+</style><rect class="panel" x="0.5" y="0.5" width="399" height="257" rx="6" /><text x="20" y="33" class="heading">GitHub stats</text><text x="20" y="57" class="muted">Public profile</text><text x="20" y="94">Contributions · year</text><text x="380" y="94" text-anchor="end" class="value">317</text><text x="20" y="126">Pull requests · all time</text><text x="380" y="126" text-anchor="end" class="value">62</text><text x="20" y="158">Issues · all time</text><text x="380" y="158" text-anchor="end" class="value">35</text><text x="20" y="190">Stars received</text><text x="380" y="190" text-anchor="end" class="value">0</text><text x="20" y="222">Public repositories</text><text x="380" y="222" text-anchor="end" class="value">5</text></svg>
