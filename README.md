@@ -1,7 +1,7 @@
 ### hamabira
 
-<table>
-  <thead><tr><th>Category</th><th>Technologies</th></tr></thead>
+<table width="100%">
+  <thead><tr><th width="28%">Category</th><th>Technologies</th></tr></thead>
   <tbody>
     <tr><td>Languages</td><td><div>
       <img width="32" height="32" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" />
